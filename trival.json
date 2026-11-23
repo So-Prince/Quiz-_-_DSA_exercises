@@ -1,0 +1,157 @@
+[
+    {
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "options": ["var", "define", "letvar", "variable"],
+      "answer": "var"
+    },
+    {
+      "question": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+      "options": ["Queue", "Stack", "Array", "Linked List"],
+      "answer": "Stack"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "HyperTransfer Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "Which HTTP status code means 'Not Found'?",
+      "options": ["200", "301", "404", "500"],
+      "answer": "404"
+    },
+    {
+      "question": "Which Git command is used to download changes from a remote repository without merging them?",
+      "options": ["git push", "git pull", "git fetch", "git clone"],
+      "answer": "git fetch"
+    },
+    {
+      "question": "What is the time complexity of accessing an element by index in an array?",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+      "answer": "O(1)"
+    },
+    {
+      "question": "Which SQL keyword is used to retrieve data from a database?",
+      "options": ["GET", "FETCH", "SELECT", "READ"],
+      "answer": "SELECT"
+    },
+    {
+      "question": "What is encapsulation in object-oriented programming?",
+      "options": [
+        "The process of hiding internal implementation details",
+        "The process of creating multiple classes",
+        "The process of converting code into machine language",
+        "The process of executing multiple programs simultaneously"
+      ],
+      "answer": "The process of hiding internal implementation details"
+    },
+    {
+      "question": "Which data structure is commonly used to implement a breadth-first search (BFS)?",
+      "options": ["Stack", "Queue", "Heap", "Hash Table"],
+      "answer": "Queue"
+    },
+    {
+      "question": "What does REST primarily use to enable communication between clients and servers?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "SSH"
+      ],
+      "answer": "HTTP"
+    },
+    {
+      "question": "Which sorting algorithm has an average-case time complexity of O(n log n)?",
+      "options": ["Bubble Sort", "Insertion Sort", "Merge Sort", "Linear Search"],
+      "answer": "Merge Sort"
+    },
+    {
+      "question": "What is a database index primarily used for?",
+      "options": [
+        "Increasing query performance",
+        "Encrypting database records",
+        "Reducing database permissions",
+        "Automatically deleting duplicate records"
+      ],
+      "answer": "Increasing query performance"
+    },
+    {
+      "question": "What is the primary purpose of a mutex in concurrent programming?",
+      "options": [
+        "To allocate memory",
+        "To prevent simultaneous access to shared resources",
+        "To increase CPU clock speed",
+        "To compress data"
+      ],
+      "answer": "To prevent simultaneous access to shared resources"
+    },
+    {
+      "question": "Which problem can occur when two or more processes wait indefinitely for resources held by each other?",
+      "options": ["Race condition", "Deadlock", "Stack overflow", "Memory leak"],
+      "answer": "Deadlock"
+    },
+    {
+      "question": "What is the main purpose of a load balancer in a distributed system?",
+      "options": [
+        "To distribute incoming traffic across multiple servers",
+        "To encrypt all application data",
+        "To compile application source code",
+        "To store database backups"
+      ],
+      "answer": "To distribute incoming traffic across multiple servers"
+    },
+    {
+      "question": "Which technique is commonly used to prevent SQL injection attacks?",
+      "options": [
+        "Using parameterized queries",
+        "Increasing server memory",
+        "Using longer variable names",
+        "Disabling database indexes"
+      ],
+      "answer": "Using parameterized queries"
+    },
+    {
+      "question": "In a distributed system, what does eventual consistency mean?",
+      "options": [
+        "All replicas are always immediately identical",
+        "Replicas may temporarily differ but will converge if no new updates occur",
+        "Only one server can ever contain the data",
+        "Data is never replicated"
+      ],
+      "answer": "Replicas may temporarily differ but will converge if no new updates occur"
+    },
+    {
+      "question": "What is the purpose of database normalization?",
+      "options": [
+        "To reduce data redundancy and improve data integrity",
+        "To make queries intentionally slower",
+        "To encrypt database passwords",
+        "To increase the size of database tables"
+      ],
+      "answer": "To reduce data redundancy and improve data integrity"
+    },
+    {
+      "question": "Which algorithm is commonly used to find the shortest path from a source node in a graph with non-negative edge weights?",
+      "options": [
+        "Dijkstra's algorithm",
+        "Depth-First Search",
+        "Bubble Sort",
+        "Binary Search"
+      ],
+      "answer": "Dijkstra's algorithm"
+    },
+    {
+      "question": "What is the main challenge associated with the CAP theorem in distributed systems?",
+      "options": [
+        "A distributed system cannot simultaneously guarantee consistency, availability, and partition tolerance under a network partition",
+        "A database cannot contain more than three tables",
+        "A server can only process three requests at a time",
+        "An application can only have three services"
+      ],
+      "answer": "A distributed system cannot simultaneously guarantee consistency, availability, and partition tolerance under a network partition"
+    }
+  ]
